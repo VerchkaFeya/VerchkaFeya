@@ -1,5 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/74105045/207317522-84a353e6-4b40-4553-aa7e-5a3f73bde31b.jpg)
-<h2 align="center">Hey! Nice to see you.</h2>
+  <div align="center">
+    <img src="https://media4.giphy.com/media/k6TYtHORxontMw6dvf/giphy.gif?cid=790b7611ca1699e0d93bda5fa4bad3508f71f7cb652aa320&rid=giphy.gif" width="100"/>
+  </div><h2 align="center">Hey! Nice to see you.</h2>
   <div>
     <h3 align="center">Welcome to my page!</h3>
     <h3 align="center">I'm Vera, frontend developer from <b>Saint Petersburg, Russia</b></h3>
@@ -14,6 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verchkafeya&show_icons=true&locale=en" alt="verchkafeya" /></p>
 
-  <div align="center">
-    <img src="https://media4.giphy.com/media/k6TYtHORxontMw6dvf/giphy.gif?cid=790b7611ca1699e0d93bda5fa4bad3508f71f7cb652aa320&rid=giphy.gif" width="100"/>
-  </div>
+
